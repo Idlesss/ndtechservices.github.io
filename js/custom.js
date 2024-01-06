@@ -9,12 +9,11 @@
   // BACKSTRETCH SLIDESHOW
   $(".hero-section").backstretch(
     [
-      "images/slideshow/hp-1.jpg",
-      "images/slideshow/hp-2.jpg",
-      "images/slideshow/hp-3.jpg",
-      "images/slideshow/komputer-1.jpg",
-      "images/slideshow/komputer-2.jpg",
-      "images/slideshow/komputer-3.jpg"
+      "https://drive.google.com/uc?export=view&id=19k5t0O7jga-HvPQLdorkMK2dJH3jHJTM",
+      "https://drive.google.com/uc?export=view&id=19h3g_QPaLtiv15jLf_BZJps3UkzQYa3_",
+      "images/slideshow/Karosel1.jpg",
+      "images/slideshow/Karosel2.jpg",
+      "images/slideshow/Karosel3.jpg"
     ],
     { duration: 2000, fade: 750 }
   );
